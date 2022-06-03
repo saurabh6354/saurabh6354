@@ -6,7 +6,7 @@ I am a junior at Cluster Innovation Centre, University of Delhi, pursuing a degr
 
 🔭 I’m a Flutter developer.
 
-🌱 I’m currently learning more about BlockChain.
+👨🏻‍💻 I’m currently learning more about BlockChain.
 
 😄 Pronouns: He/His
 
