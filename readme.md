@@ -3,8 +3,11 @@ I am a junior at Cluster Innovation Centre, University of Delhi, pursuing a degr
 # 💫About Me :
 
 🔭 I’m a Flutter developer.
+
 🌱 I’m currently learning more about BlockChain.
+
 😄 Pronouns: He/His
+
 🌱 I’m currently looking for research internships/fellowships.
 
 
