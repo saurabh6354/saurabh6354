@@ -10,7 +10,7 @@ I am a junior at Cluster Innovation Centre, University of Delhi, pursuing a degr
 
 😄 Pronouns: He/His
 
-🌱 I’m an upcoming MITACS Globalink research intern.
+🌱 Currently working as a MITACS Globalink research intern.
 
 
 ## 🌐Socials
