@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I am a junior at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
+I am a Final year Undergrad at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
 
 # 💫About Me :
 
