@@ -1,17 +1,19 @@
 # Hello there 👋
 
-I am a Final year Undergrad at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
+I am a postgraduate student at **IIIT Hyderabad**, pursuing a Master’s in **Computer Science and Information Security**.
 
-# 💫About Me :
+## 💫 About Me
+- 🔭 Passionate about developing innovative applications and exploring new technologies.
+- 👨🏻‍💻 Currently learning about **Machine Learning** and **Cybersecurity**.
+- 🌱 **MITACS Globalink research intern** at Athabasca University (2023).
+- 🎓 Completed a bachelor's in **Information Technology and Mathematical Innovations** at the Cluster Innovation Centre, University of Delhi.
 
-🔭 I’m a Flutter developer.
+## 🛠️ Skills
+- Proficient in **C++**.
+- Strong foundation in **Data Structures** and **Algorithms**.
 
-👨🏻‍💻 I’m currently learning more about BlockChain.
-
-😄 Pronouns: He/His
-
-🌱 Currently working as a MITACS Globalink research intern.
-
+## 😄 Pronouns
+He/Him
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-kumar-23549721a) 
